@@ -2,7 +2,7 @@
 
 🎓 A high school student at **Bodhisattva Senior High School (Grade 12)**  
 🚀 Enthusiast in **Cyber Security | CTF**  
-🌱 Currently learning **CTF challenges, Arduino**  
+🌱 Currently learning **CTF Challenges, Arduino**  
 🎯 Goal: Contribute more to open-source & document my journey  
 
 ---
