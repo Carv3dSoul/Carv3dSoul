@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Yulius Wijaya 
 
 🎓 A high school student at **Bodhisattva Senior High School (Grade 12)**  
-🚀 Enthusiast in **Cyber Security | CTF | Robotics | Software Development**  
-🌱 Currently learning **CTF challenges, Arduino, and Roblox game dev**  
+🚀 Enthusiast in **Cyber Security | CTF**  
+🌱 Currently learning **CTF challenges, Arduino**  
 🎯 Goal: Contribute more to open-source & document my journey  
 
 ---
