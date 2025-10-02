@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Yulius Wijaya 
 
-<!--
-**Carv3dSoul/Carv3dSoul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 A high school student at **Bodhisattva Senior High School (Grade 12)**  
+🚀 Enthusiast in **Cyber Security | CTF | Robotics | Software Development**  
+🌱 Currently learning **CTF challenges, Arduino, and Roblox game dev**  
+🎯 Goal: Contribute more to open-source & document my journey  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack    
+![Linux](https://skillicons.dev/icons?i=linux)  ![Vscode](https://skillicons.dev/icons?i=vscode)  <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" width="48" height="48" alt="Wireshark" style="border:2px solid #1E90FF; border-radius:12px; padding:4px;"/>  
+
+---
+
+## 🏆 CTF  
+- 🔐 [WriteUp-CTF](https://github.com/Carv3dSoul/WriteUp-CTF) – kumpulan write-up CTF  
+
+---
+
+## 📫 Contact Me  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:juliuzwijaya@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/julius_wijayaaa)  
+
+---
+
+⭐️ From [Carv3dSoul](https://github.com/Carv3dSoul)
