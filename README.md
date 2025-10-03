@@ -15,6 +15,11 @@
 ## 🏆 CTF  
 - 🔐 [WriteUp-CTF](https://github.com/Carv3dSoul/WriteUp-CTF) – kumpulan write-up CTF  
 
+### 🔎 Challenges I Work On  
+- 🕵️ Forensic  
+- 🔄 Reverse Engineering  
+- 🖼️ Steganography
+
 ---
 
 ## 📫 Contact Me  
