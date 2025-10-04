@@ -8,7 +8,7 @@
 ---
 
 ## 🛠️ Tech Stack    
-![Linux](https://skillicons.dev/icons?i=linux)  ![Vscode](https://skillicons.dev/icons?i=vscode)  <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" width="48" height="48" alt="Wireshark" style="border:2px solid #1E90FF; border-radius:12px; padding:4px;"/> <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/eba75261-539e-4ea1-8e8d-62fd0abd69a7" />
+![Linux](https://skillicons.dev/icons?i=linux)  ![Vscode](https://skillicons.dev/icons?i=vscode)  <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" width="48" height="48" alt="Wireshark" style="border:2px solid #1E90FF; border-radius:12px; padding:4px;"/> 
 
 
 ---
@@ -17,8 +17,7 @@
 - 🔐 [WriteUp-CTF](https://github.com/Carv3dSoul/WriteUp-CTF) – kumpulan write-up CTF  
 
 ### 🔎 Challenges I Work On  
-- 🕵️ Forensic  
-- 🔄 Reverse Engineering  
+- 🕵️ Forensic   
 - 🖼️ Steganography
 
 ---
