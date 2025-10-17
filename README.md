@@ -1,15 +1,24 @@
-# 👋 Hi, I'm Yulius Wijaya 
+<div align="center">
 
-🎓 A high school student at **Bodhisattva Senior High School (Grade 12)**  
-🚀 Enthusiast in **Cyber Security | CTF**  
-🌱 Currently learning **CTF Challenges, Arduino**  
-🎯 Goal: Contribute more to open-source & document my journey  
+<h1 style="font-size: 2.5em;">
+  👋 Hi, I'm <span style="color:#8A2BE2; text-shadow: 0px 0px 10px #BA55D3;">Yulius Wijaya</span> 🧩
+</h1>
+</div>
 
 ---
 
-## 🛠️ Tech Stack    
-![Linux](https://skillicons.dev/icons?i=linux)  ![Vscode](https://skillicons.dev/icons?i=vscode)  <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" width="48" height="48" alt="Wireshark" style="border:2px solid #1E90FF; border-radius:12px; padding:4px;"/> 
+  🎓 <b>High school student at Bodhisattva Senior High School (Grade 12)</b><br>
+  🚀 Enthusiast in <b>Cyber Security | CTF</b><br>
+  🌱 Currently learning <b>CTF Challenges, Arduino</b><br>
+  🎯 Goal: Contribute to open-source & document my journey
 
+---
+
+### 🛠️ Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,vscode,arduino" />
+  <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" width="48" height="48" alt="Wireshark"/>
+</p>
 
 ---
 
