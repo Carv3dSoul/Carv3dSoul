@@ -1,11 +1,4 @@
-<div align="center">
-
-<h1 style="font-size: 2.5em;">
-  👋 Hi, I'm <span style="color:#8A2BE2; text-shadow: 0px 0px 10px #BA55D3;">Yulius Wijaya</span> 🧩
-</h1>
-</div>
-
----
+# 👋 Hi, I'm Yulius Wijaya 🧩
 
   🎓 <b>High school student at Bodhisattva Senior High School (Grade 12)</b><br>
   🚀 Enthusiast in <b>Cyber Security | CTF</b><br>
