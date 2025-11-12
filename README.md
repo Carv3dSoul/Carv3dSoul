@@ -8,7 +8,7 @@
 ---
 
 ### 🛠️ Tech Stack  
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=linux,vscode,arduino" />
   <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" width="48" height="48" alt="Wireshark"/>
 </p>
