@@ -1,5 +1,4 @@
-# 👋 Hi, I'm Yulius Wijaya 🧩
-
+# Hi, I'm Yulius Wijaya ☘️
 
   🎓 <b>High school student at Bodhisattva Senior High School (Grade 12)</b><br>
   🚀 Enthusiast in <b>Cyber Security | CTF</b><br>
