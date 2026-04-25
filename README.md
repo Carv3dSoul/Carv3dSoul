@@ -1,22 +1,15 @@
 # Hi, I'm Yulius Wijaya ☘️
 
-  🎓 <b>High school student at Bodhisattva Senior High School (Grade 12)</b><br>
-  🚀 Enthusiast in <b>Cyber Security | CTF</b><br>
-  🌱 Currently learning <b>CTF Challenges, Arduino</b><br>
+  🎓 <b>High school student at Bodhisattva Senior High School</b><br>
+  🚀 Enthusiast in <b>Cyber Security | CTF Player</b><br>
+  🌱 Currently learning <b>CTF Challenges</b><br>
   🎯 Goal: Contribute to open-source & document my journey
 
 ---
 
-### 🛠️ Tech Stack  
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,vscode,arduino" />
-  <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" width="48" height="48" alt="Wireshark"/>
-</p>
+### Write Up CTF
 
----
-
-## 🏆 CTF  
-- 🔐 [WriteUp-CTF](https://github.com/Carv3dSoul/WriteUp-CTF) – kumpulan write-up CTF  
+- 🔐 [WriteUp-CTF](https://github.com/Carv3dSoul/WriteUp-CTF) 
 
 ### 🔎 Challenges I Work On  
 - 🕵️ Forensic   
