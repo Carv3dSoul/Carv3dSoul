@@ -7,10 +7,6 @@
 
 ---
 
-### Write Up CTF
-
-- 🔐 [WriteUp-CTF](https://github.com/Carv3dSoul/WriteUp-CTF) 
-
 ### 🔎 Challenges I Work On  
 - 🕵️ Forensic   
 - 🖼️ Steganography
